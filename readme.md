@@ -24,7 +24,7 @@ solving exercises, all the topics were seen by different courses and/or videos.
    # my_set = {23,12,45}
    my_Set.add(44)
   ```
-  * functions,lambda
+* functions,lambda
   ```py
   
    # examples  
