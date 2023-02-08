@@ -39,6 +39,27 @@ solving exercises, all the topics were seen by different courses and/or videos.
    
    
   ```
+  
+* class (POO)
+  ```py
+  
+   # examples  
+   class Pc
+      def __init__(self, processor, ram, video_card):
+        self.processor = processor
+        self.lastname = ram
+        self.video_card = video_card
+        
+      def on_pc():
+           print(f"your pc is booting") 
+   
+   my_pc = Pc("i7 10700k", 16, "rtx 3070")
+   
+   my_pc.on_pc()
+   my_pc.ram = 32
+   
+   
+  ```
 
 ### Installation
 
