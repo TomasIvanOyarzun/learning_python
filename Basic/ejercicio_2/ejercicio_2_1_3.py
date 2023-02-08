@@ -49,4 +49,4 @@ filter_list_3 = list(filter(lambda x : x % 2 == 0, [2,3,7]))
 sum_list_4 = reduce((lambda x,y : x+y),[2,3,5,7,9])
 result = sum_list([2,4,5,5,2,1,1])
 
-print(sum_list_4)
+print(filter_list_3)

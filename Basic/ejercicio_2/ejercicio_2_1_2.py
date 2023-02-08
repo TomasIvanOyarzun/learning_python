@@ -22,4 +22,5 @@ print(result)
 
 
 result = lambda num : list(filter(lambda x : all(x % i !=0 for i in range(2, x)), range(1, num+1)))
-print(result(21))
+result_2 = [x for x in range(1,21) if all(x % i !=0 for i in range(2,x)) ]
+print(result_2)
