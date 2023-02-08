@@ -18,3 +18,6 @@ def suma_2(*numbers):
 
 
 print(suma_2(2,4,6))
+is_par = lambda x : x % 2 == 0 
+
+is_par(4)
