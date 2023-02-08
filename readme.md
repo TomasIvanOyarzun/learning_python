@@ -24,6 +24,21 @@ This is an example of how to list things you need to use the software and how to
    # my_set = {23,12,45}
    my_Set.add(44)
   ```
+  * functions
+  ```py
+  
+   # examples  
+   def is_par(num):
+       if num % 2 == 0 : True
+   
+   is_par(2) # True
+   
+   is_par = lambda x : x % 2
+   
+   print(is_par(4) # True
+   
+   
+  ```
 
 ### Installation
 
