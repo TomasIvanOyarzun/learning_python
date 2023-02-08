@@ -118,7 +118,7 @@ solving exercises, all the topics were seen by different courses and/or videos.
 
    plt.show()
   ```
-  <img width='100%' src="https://github.com/TomasIvanOyarzun/learning_python/blob/main/assets/img/python_grafico.png"/>
+  <img width='50%' src="https://github.com/TomasIvanOyarzun/learning_python/blob/main/assets/img/python_grafico.png"/>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
