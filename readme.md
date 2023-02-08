@@ -116,9 +116,7 @@ solving exercises, all the topics were seen by different courses and/or videos.
    total_ingresos = df_2["ingresos"].sum()
    print(f"total ingresos: ${total_ingresos}")
 
-plt.show()
-   
-   
+   plt.show()
   ```
   <img width='100%' src="https://github.com/TomasIvanOyarzun/learning_python/blob/main/assets/img/python_grafico.png"/>
 
