@@ -123,8 +123,8 @@ solving exercises, all the topics were seen by different courses and/or videos.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+To be able to run all these files it is necessary to install python, the latest version is recommended, and some text editor, in my case I use visual studio code, since it allows me to use different programming languages.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_Donwload python [Documentation](https://www.python.org/downloads/)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
