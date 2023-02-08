@@ -1,6 +1,7 @@
-## Practice python
+## Practicing python
 <img width='100%' src="https://github.com/TomasIvanOyarzun/learning_python/blob/main/assets/img/python_desktop.png"/>
-<!-- GETTING STARTED -->
+
+
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
