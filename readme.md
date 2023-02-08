@@ -7,7 +7,7 @@
 Seeing different topics in python, doing practices, testing built-in python functions,
 solving exercises, all the topics were seen by different courses and/or videos.
 
-### watched topics
+### some of the topics seen
 
 
 * list,tuple,dict,set
