@@ -10,12 +10,19 @@ solving exercises, all the topics were seen by different courses and/or videos.
 ### watched topics
 
 This is an example of how to list things you need to use the software and how to install them.
-* list,tuple,dict
+* list,tuple,dict,set
   ```py
+  
+   # examples  
    my_list = list()
    # my_list = [23,12,45]
+   my_list.append(44)
+   
    my_tuple = tuple()
    # my_tuple = (23,12,45)
+   my_set = set()
+   # my_set = {23,12,45}
+   my_Set.add(44)
   ```
 
 ### Installation
