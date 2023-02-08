@@ -1,5 +1,5 @@
 ## Practicing python
-<img width='100%' src="https://github.com/TomasIvanOyarzun/learning_python/blob/main/assets/img/python_desktop.png"/>
+<img id="readme-top" width='100%' src="https://github.com/TomasIvanOyarzun/learning_python/blob/main/assets/img/python_desktop.png"/>
 
 
 ## Getting Started
