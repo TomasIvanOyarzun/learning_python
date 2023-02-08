@@ -4,10 +4,10 @@
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Seeing different topics in python, doing practices, testing built-in python functions,
+solving exercises, all the topics were seen by different courses and/or videos.
 
-### Prerequisites
+### watched topics
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
