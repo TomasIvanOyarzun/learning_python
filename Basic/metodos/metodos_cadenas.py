@@ -17,7 +17,7 @@ result2 = cadena1.capitalize()
 # buscamos una cadena  en otra cadena , si no encuntra devuelve -1
 
 result_find = cadena1.find('tomas')
-
+print(result_find)
 # buscamos una cadena en otra cadena , pero si no existe tira un error (hay que manejar ese error)
 result_index = cadena1.index('tomas')
 
